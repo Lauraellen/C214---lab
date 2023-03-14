@@ -1,0 +1,2 @@
+link do git:
+https://github.com/Lauraellen/POO-JAVASCRIPT
